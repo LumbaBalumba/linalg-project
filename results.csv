@@ -1,0 +1,10 @@
+dtype,inv_method,divergence
+fp64,solve,0.1184
+fp64,svd,0.1831
+fp64,inv,0.1204
+fp16,solve,0.1155
+fp16,svd,0.1821
+fp16,inv,0.127
+fp32,solve,0.1219
+fp32,svd,0.1902
+fp32,inv,0.1189
